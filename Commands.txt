@@ -1,0 +1,5 @@
+COMMANDS INVOLVED :
+1. pip install easyocr
+2. pip install pyttsx3 
+
+/* NOTE: FILES NEEDED TO BE SAVED ON DESKTOP */
