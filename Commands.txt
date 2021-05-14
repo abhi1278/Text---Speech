@@ -1,3 +1,0 @@
-COMMANDS INVOLVED :
-1. pip install easyocr
-2. pip install pyttsx3
